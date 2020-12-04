@@ -21,8 +21,12 @@ Tomamos como exemplo o Boleto do Caixa Econômica, onde temos:
 - layout_cef.php : Aqui fica a estrutura HTML para a geração do boleto
 - funcoes_cef.php : Aqui ficam as FUNÇOES usadas para a geração do boleto 
 
-## Este conceito do BoletoPHP facilita a criação de boletos de outros bancos?
-Sim, pois facilita para um desenvolvedor para que seja dado continuidade no Projeto BoletoPHP para o desenvolvimento dos demais bancos, pois o principal trabalho para criar o boleto de um novo banco é criar o arquivo php de funções ( no caso acima o funcoes_cef.php) , onde estão as regras de cada banco para a geração das 2 principais informações do boleto que são a Linha Digitável e o Código de Barras, já que no layout_xxxx.php muda apenas a logo do banco e no arquivo boleto_xxxx.php acrescenta poucas variáveis específicas de cada banco.
+##Integrantes da Equipe
+1 João Pedro Marques da Costa
+2 João Vitor Lacerda de Matteo
+3 Marcela Nascimento de Pinho
+4 Pedro Henrique Oliveira de Alencar
+5 Wesmüller Marrathans de Cruz Moura
 
 ## Cronograma de Desenvolvimento - Projeto Integrador 01
 
