@@ -1,7 +1,9 @@
 # The-Light-in-The-Darkness
 
 
-Projeto Código-Aberto de Sistema de Boletos bancários em PHP
+Este é um projeto de desenvolvimento de um jogo 2D mobile, especificamente para Android,
+no estilo terror e roguelike. Neste documento iremos mostrar como será produzido e como se
+comportará com seu jogador.
 
 ## Qual o principal motivo deste projeto?
 Este projeto foi criado por Elizeu Alcantara desde Maio/2006 e teve origem do Projeto BBBoletoFree que tiveram colaborações de Daniel William Schultz e Leandro Maniezo que por sua vez foi derivado do PHPBoleto de João Prado Maia e Pablo Martins F. Costa.
