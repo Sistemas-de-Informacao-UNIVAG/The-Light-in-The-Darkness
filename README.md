@@ -1,5 +1,5 @@
 # The-Light-in-The-Darkness
-============================
+
 
 Projeto Código-Aberto de Sistema de Boletos bancários em PHP
 
